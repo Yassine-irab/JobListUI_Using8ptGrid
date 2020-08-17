@@ -5,6 +5,8 @@ I will take a look on how to code out a job list UI using an 8pt grid system.
 and I gonna loop through the data using the .map() Array method. 😉
 ```
 
+![Image of Yaktocat](https://i.ibb.co/4g4HK1b/Annotation-2020-08-17-151352.png)
+
 [React js - Array method](https://reactjs.org/docs/lists-and-keys.html)
 
 [Portfolio](https://yassine-irab.me/)
